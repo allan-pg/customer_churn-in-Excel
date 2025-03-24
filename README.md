@@ -39,11 +39,11 @@ The Excel file contains:
 - A Competitor Churn Analysis pie chart illustrating customers lost to competitors.  
 
 ## Recommendations
-- Improve Customer Retention Strategies: Introduce loyalty programs, personalized offers, and proactive customer support.  
-- Optimize Pricing & Plans: Provide flexible plans and discounts to reduce price-related churn.  
-- Enhance Customer Support: Improve service response times and offer multi-channel support.  
-- Target High-Risk Segments: Focus on states with high churn rates and senior customers with tailored retention efforts.  
-- Conduct Competitive Analysis: Adjust offerings to match or exceed competitor benefits.
+- Introduce loyalty programs, personalized offers, and proactive customer support.  
+- Provide flexible plans and discounts to reduce price-related churn.  
+- Improve service response times and offer multi-channel support.  
+- Focus on states with high churn rates and senior customers with tailored retention efforts.  
+- Adjust offerings to match or exceed competitor benefits.
 
 ## Tools Used
 - Microsoft Excel (Pivot Tables, Charts, Conditional Formatting)
